@@ -1,5 +1,6 @@
-Visualize Data with a Scatterplot Graph
-![Uploading Screenshot 2023-06-09 at 4.38.13 AM.png…]()
+#Visualize Data with a Scatterplot Graph
+<img width="1021" alt="Screenshot 2023-06-09 at 4 38 13 AM" src="https://github.com/pejmantheory/FCC-Scatterplot-Graph/assets/81389644/23bbe5ef-ce8b-4a66-a6f7-03ed9e87b686">
+
 
 Coding platform: Codepen
 
